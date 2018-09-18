@@ -3,10 +3,7 @@ Preconfigured TapTargetView implementation
 
 This is only an easier implemenatation of TapTargetView (https://github.com/KeepSafe/TapTargetView)
 
-How to use
-
-
-
+# How to use
 Add it in your root build.gradle at the end of repositories:
 
 	allprojects {
